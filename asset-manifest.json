@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Malmsteg/ReactAssignment2/static/css/main.a617e044.chunk.css",
+    "main.js": "/Malmsteg/ReactAssignment2/static/js/main.203d225b.chunk.js",
+    "main.js.map": "/Malmsteg/ReactAssignment2/static/js/main.203d225b.chunk.js.map",
+    "runtime-main.js": "/Malmsteg/ReactAssignment2/static/js/runtime-main.6880bbfd.js",
+    "runtime-main.js.map": "/Malmsteg/ReactAssignment2/static/js/runtime-main.6880bbfd.js.map",
+    "static/js/2.75f04339.chunk.js": "/Malmsteg/ReactAssignment2/static/js/2.75f04339.chunk.js",
+    "static/js/2.75f04339.chunk.js.map": "/Malmsteg/ReactAssignment2/static/js/2.75f04339.chunk.js.map",
+    "static/js/3.39f70f3b.chunk.js": "/Malmsteg/ReactAssignment2/static/js/3.39f70f3b.chunk.js",
+    "static/js/3.39f70f3b.chunk.js.map": "/Malmsteg/ReactAssignment2/static/js/3.39f70f3b.chunk.js.map",
+    "index.html": "/Malmsteg/ReactAssignment2/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Malmsteg/ReactAssignment2/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.75f04339.chunk.js.LICENSE.txt": "/Malmsteg/ReactAssignment2/static/js/2.75f04339.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Malmsteg/ReactAssignment2/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6880bbfd.js",
+    "static/js/2.75f04339.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.203d225b.chunk.js"
+  ]
+}
